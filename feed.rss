@@ -2,14 +2,14 @@
 <rss version="2.0">
 
 <channel>
-  <itunes:author>jen@jencraigevans.com</itunes:author>
   <title>The Journeys We Take</title>
   <!--<link>https://www.jencraigevans.com</link>-->
   <description>The Journeys We Take. A Podcast by Jen Craig-Evans</description>
   <item>
-    <title>Intro</title>
+    <author>jen@jencraigevans.com</author>
+    <title>1. Intro</title>
     <link>https://archive.org/download/podcast-intro_202010/Podcast%20Intro.mp3</link>
-    <description>The Journeys We Take: Intro</description>
+    <description>The Journeys We Take: 1. Intro</description>
   </item>
 </channel>
 
